@@ -1,1 +1,3 @@
 # clam
+
+Always perform tests
